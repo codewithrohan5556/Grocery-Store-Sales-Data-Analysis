@@ -63,8 +63,8 @@ zomato-data-analysis/
 ---
 
 🧠 Conclusion
+
 This project demonstrates the value of EDA in uncovering business insights for retail strategy and customer segmentation. The patterns observed can inform inventory planning, sales optimization, and marketing decisions in grocery or retail environments.
 
-📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+
 
