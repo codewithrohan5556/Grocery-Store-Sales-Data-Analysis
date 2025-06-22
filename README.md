@@ -38,16 +38,6 @@ The goal is to uncover valuable insights to help the business make data-driven d
 
 ---
 
-## 📁 Project Structure
-grocery-sales-analysis/
-├── data/ # Dataset or download link
-├── images/ # Visualizations
-├── notebooks/ # Jupyter Notebook file
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-└── LICENSE # MIT License
----
-
 ## 📊 Key Insights
 
 - ✅ Branch C generates the highest revenue  
@@ -58,25 +48,6 @@ grocery-sales-analysis/
 
 ---
 
-## 📷 Sample Visualizations
-
-<p align="center">
-  <img src="images/sales_by_hour.png" alt="Sales by Hour" width="400"/>
-  <img src="images/product_line_profitability.png" alt="Product Line Profitability" width="400"/>
-</p>
-
----
-
-## 🚀 How to Run
-
-To run the project locally:
-
-```bash
-git clone https://github.com/yourusername/grocery-sales-analysis.git
-cd grocery-sales-analysis
-pip install -r requirements.txt
-jupyter notebook notebooks/grocery_sales_analysis.ipynb
-```
 🧠 Conclusion
 This project demonstrates the value of EDA in uncovering business insights for retail strategy and customer segmentation. The patterns observed can inform inventory planning, sales optimization, and marketing decisions in grocery or retail environments.
 
