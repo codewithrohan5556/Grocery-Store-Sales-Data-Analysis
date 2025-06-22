@@ -16,6 +16,20 @@ The goal is to uncover valuable insights to help the business make data-driven d
 
 ---
 
+<h2>📁 Project Structure</h2>
+  <pre><code>
+zomato-data-analysis/
+├── data/
+├── images/
+├── notebooks/
+├── src/
+├── README.md
+├── requirements.txt
+└── LICENSE
+  </code></pre>
+
+---
+
 ## 📊 Key Insights
 
 - 🏪 **Branch C** has the highest revenue among all branches  
